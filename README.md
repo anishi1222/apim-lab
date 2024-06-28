@@ -1,27 +1,25 @@
+
+
 <img src="assets/images/apim-logo-transparent.png">
 
-# About this workshop
+# このWorkshopについて
 
-This hands-on lab will guide you through the different concepts around Azure API Management, from the creation to the DevOps, including good practices in terms of versioning, security, and so on. It is designed to bring customers and partners to a 200-level understanding of Azure Api Management. This is meant to be a hands-on lab experience, all instructions are provided, but a basic level of understanding of apis is expected(http operations, networking basics, openapi, rest, soap, oauth2, and other concepts).
 
-[This workshop is delivered using Github Pages and Just-The-Docs theme at https://azure.github.io/apim-lab/](https://azure.github.io/apim-lab/)
+このWorkshopは、バージョニングやセキュリティなどのプラクティスを含め、APIの作成からDevOpsに至るまで、Azure API Managementを理解できるように構成されています。このWorkshopでは、お客様やパートナー様がAzure API ManagementのL200レベルの理解をしてもらうことを目的としています。ハンズオン体験に関する手順はすべて提供いたしますが、APIに関する基本的な理解（HTTPの操作、ネットワークの基礎、OpenAPI、REST、SOAP、OAuth 2.0などのコンセプト）はお持ちであることを前提としています。
 
-## Contributing
+このWorkshopは、GitHub PagesとJust-The-Docsのテーマを使い、[https://anishi1222.github.io/apim-lab/](https://anishi1222.github.io/apim-lab/) にて提供します。なお、英語版は [https://azure.github.io/apim-lab/](https://azure.github.io/apim-lab/) です。
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit [https://cla.opensource.microsoft.com].
+## 貢献するには
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+このプロジェクトでは貢献やご提案を歓迎します。ほとんどの貢献では、Contributor License Agreement (CLA) への同意が必要です。CLAは、貢献された内容は私たちに対して利用を許諾する権利が貢献者にあること、そしてその権利を行使することを宣言するものです。詳しくは、https://cla.opensource.microsoft.com をご覧ください。
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+プルリクエスト (PR) を送信すると、CLA botが自動的にCLAを提供する必要があるかどうかを判断し、PRに対して適切な装飾を入れます（例：ステータスチェック、コメントなど）。PR発行者はbotが提供する指示に従うだけでかまいません。この作業は、このCLAを使用しているすべてのリポジトリで一度だけ行う必要があります。
 
-## Trademarks
+このプロジェクトは、[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) を採用しています。詳細については、 [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) を参照するか、追加の質問やコメントがある場合は、[opencode@microsoft.com](mailto:opencode@microsoft.com) までご連絡ください。
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## 商標
+
+このプロジェクトには、プロジェクト、製品、またはサービスの商標またはロゴが含まれている場合があります。
+マイクロソフトの商標またはロゴの使用が許可されている場合は、[マイクロソフトの商標およびブランド ガイドライン](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) に従わなければなりません。
+このプロジェクトの修正版でマイクロソフトの商標またはロゴを使用し、混乱を招いたり、マイクロソフトのスポンサーであることを示唆したりしてはなりません。
+サードパーティの商標またはロゴの使用は、それらのサードパーティのポリシーに従います。
