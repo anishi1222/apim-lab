@@ -7,9 +7,9 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 
-# Enforcing supported github pages versions (Jekyll 3.9.5)
+# Enforcing supported GitHub Pages versions (Jekyll 3.10.0)
 # https://pages.github.com/versions/
-gem "jekyll", "	3.9.5"
+gem "jekyll", "3.10.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "just-the-docs"
@@ -19,7 +19,7 @@ gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages"
+  gem "github-pages", "~> 232"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
