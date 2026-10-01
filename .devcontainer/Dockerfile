@@ -11,7 +11,7 @@ ENV LANG=en_US.UTF-8 \
     LANG=en_US.UTF-8 \
     LANGUAGE=en_US
 
-RUN gem install bundler github-pages
+RUN gem install bundler
 
 COPY . .
 
